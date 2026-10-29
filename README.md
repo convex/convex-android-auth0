@@ -1,7 +1,7 @@
 # Convex for Android - Auth0 Integration
 
 This library works with the core
-[Convex for Android](https://github.com/get-convex/convex-mobile/tree/main/android)
+[Convex for Android](https://github.com/convex/convex-mobile/tree/main/android)
 library and provides support for using Auth0 in `ConvexClientWithAuth`.
 
 The integration uses Auth0's [Universal Login](https://auth0.com/docs/hosted-pages/login). Users are
